@@ -1,0 +1,18 @@
+/* Navigation Section */
+#navbar{
+    flex-direction: column;
+
+}
+/* Home section */
+#home{
+
+}
+/* Services section */
+#services{
+flex-direction: column;
+}
+#services .boox{
+    padding: 14px;
+    margin: 2px 15px;
+   margin-bottom: 20px;
+}
